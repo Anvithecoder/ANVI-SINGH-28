@@ -117,9 +117,9 @@ function draw() {
  //   gameOver();
  // }
 
-  /*if (numberOfArrows = 0) {
+  if (numberOfArrows = 0) {
     gameOver();
-  }*/
+  }
 
   /*if (numberOfArrows == 0) {
     gameOver;
