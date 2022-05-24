@@ -109,17 +109,17 @@ function draw() {
   textSize(30);
   text("Remaining Arrows : " + numberOfArrows, 200, 100);
 
- if (numberOfArrows == 5) {
-   gameOver();
-  }
+ //if (numberOfArrows == 5) {
+//   gameOver();
+//  }
 
- // if (numberOfArrows == 0) {
- //   gameOver();
- // }
-
-  if (numberOfArrows = 0) {
+  if (numberOfArrows == 0) {
     gameOver();
   }
+
+ // if (numberOfArrows = 0) {
+  //  gameOver();
+//  }
 
   /*if (numberOfArrows == 0) {
     gameOver;
